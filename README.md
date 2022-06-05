@@ -1,5 +1,10 @@
 # README
 
+metunes is an itunes like database that allows you to add an album/song and view them.
+link to Jean's tutorial = https://www.twitch.tv/videos/1310457238?filter=all&sort=time
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
