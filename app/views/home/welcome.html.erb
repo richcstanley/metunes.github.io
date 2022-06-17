@@ -1,1 +1,8 @@
-hello music lovers and fans!
+hello music lovers and fans! here are some albums!!
+<ul>
+  <% @albums.each do |album|%>
+    <li>
+      <%= album.title %>
+    </li>
+  <%end%>
+</ul>
